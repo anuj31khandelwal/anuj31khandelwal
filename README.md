@@ -6,6 +6,7 @@ In addition to my web development expertise, I am a data science enthusiast with
 
 With a commitment to continuous learning and a proven track record in developing robust web applications, I am excited about the intersection of technology and data. Let's connect and explore opportunities to collaborate on exciting projects or share insights within the web development and data science communities.
 
+<img src="https://icons8.com/icon/nK5KokYOqcnT/laptop"/>
 Skills
 <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AJavaScript-logo.png&psig=AOvVaw2iOeumyy9K5WHb20VzBZwW&ust=1711080029740000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiXmP27hIUDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AJavaScript-logo.png&psig=AOvVaw2iOeumyy9K5WHb20VzBZwW&ust=1711080029740000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiXmP27hIUDFQAAAAAdAAAAABAE)" alt="javascript logo" height="50" width="50"/>
 
