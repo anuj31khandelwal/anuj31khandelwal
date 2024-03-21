@@ -1,3 +1,8 @@
+<head>
+    <!-- Other meta tags and stylesheets -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-3.0.0" crossorigin="anonymous">
+</head>
+
 ### Hey there 👋, I am Anuj Khandelwal!
 
 Welcome to my Githb page! I am a passionate and versatile professional with a focus on web development and a growing enthusiasm for data science. Currently, I am a skilled web developer, adept in HTML, CSS, JavaScript, ReactJS, Express.js, Node.js, and MongoDB. My proficiency extends to both front-end and back-end technologies, allowing me to create seamless and innovative solutions.
