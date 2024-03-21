@@ -1,5 +1,11 @@
 ### Hey there 👋, I am Anuj Khandelwal!
 
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Data Science and Web Development
+- 📫 How to reach me: anujkhandelwal187@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Blessed with problems, and a good problem-solver!
+
 Welcome to my Githb page! I am a passionate and versatile professional with a focus on web development and a growing enthusiasm for data science. Currently, I am a skilled web developer, adept in HTML, CSS, JavaScript, ReactJS, Express.js, Node.js, and MongoDB. My proficiency extends to both front-end and back-end technologies, allowing me to create seamless and innovative solutions.
 
 In addition to my web development expertise, I am a data science enthusiast with a keen interest in leveraging technology to derive meaningful insights. My programming skills encompass C++ and Python, enabling me to approach challenges with a versatile and analytical mindset. 
